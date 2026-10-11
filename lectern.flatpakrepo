@@ -1,0 +1,7 @@
+[Flatpak Repo]
+Title=Lectern
+Url=https://lzamouth.github.io/lectern-flatpak/repo/
+Homepage=https://github.com/lzamouth/lectern
+Comment=Native Markdown reader for GNOME
+Icon=https://lzamouth.github.io/lectern-flatpak/com.skunkcrafts.Lectern.svg
+GPGKey=mDMEasu3cxYJKwYBBAHaRw8BAQdAmQm33QFvd7WkXsuket4AKoY9SMNa3z3LLz+fAF8mgKa0KExlY3Rlcm4gRmxhdHBhayA8bGlvbmVsQHNrdW5rY3JhZnRzLmNvbT6IkAQTFgoAOBYhBEaXMINNrfSc2z2N7aKSuHT/UBpBBQJqy7dzAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEKKSuHT/UBpBKzQBAMDu4xeIU84zXPWFaRp7kGNxU2ezBWmlG6YNgupa1hJGAQCga86uNYIFlEtLPihWxXEs8FY6XPJTx8Fo5650+S1qDw==
